@@ -1,2 +1,0 @@
-# solomon-portfolio
-personal-website
